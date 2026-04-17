@@ -1,0 +1,6 @@
+github.com/ghinknet/smsutils/v3 v3.1.0 h1:7qzHao+1436O4e98Y9K0/Bq16AEElOuyK5sjmZuT9j8=
+github.com/ghinknet/smsutils/v3 v3.1.0/go.mod h1:E9HRToDS7J7uWDf59NZe5c3lZ4RdlVVyQgplv4VgwVU=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.80 h1:zGY70Cyp4EPfeX7GxS8uo+x9mT95PvlSSIgQm/6gPXY=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.80/go.mod h1:r5r4xbfxSaeR04b166HGsBa/R4U3SueirEUpXGuw+Q0=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.3.80 h1:4mNiA2sDlvctnGNf78sNAveCtcO+S8LnXH9kBoqSGLE=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.3.80/go.mod h1:z2hbqHG55lSo85QKqn3xDUAhXG1iIVPJnkMhwJzk4i0=

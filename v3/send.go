@@ -1,11 +1,11 @@
 package qcloud
 
 import (
-	"github.com/ghinknet/smsutils/v3/errors"
-	"github.com/ghinknet/smsutils/v3/model"
-	"github.com/ghinknet/smsutils/v3/utils"
-	"github.com/ghinknet/toolbox/pointer"
 	smsv20210111 "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms/v20210111"
+	"go.gh.ink/smsutils/v3/errors"
+	"go.gh.ink/smsutils/v3/model"
+	"go.gh.ink/smsutils/v3/utils"
+	"go.gh.ink/toolbox/pointer"
 )
 
 func (c Client) SendMessage(dest string, sender string, template string, vars model.Vars) error {

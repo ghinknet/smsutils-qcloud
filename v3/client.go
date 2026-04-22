@@ -1,12 +1,12 @@
 package qcloud
 
 import (
-	"github.com/ghinknet/smsutils/v3/errors"
-	"github.com/ghinknet/smsutils/v3/model"
-	"github.com/ghinknet/toolbox/expr"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common/profile"
 	smsv20210111 "github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms/v20210111"
+	"go.gh.ink/smsutils/v3/errors"
+	"go.gh.ink/smsutils/v3/model"
+	"go.gh.ink/toolbox/expr"
 )
 
 type Client struct {

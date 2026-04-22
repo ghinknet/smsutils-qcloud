@@ -1,12 +1,12 @@
-module github.com/ghinknet/smsutils-qcloud/v3
+module go.gh.ink/smsutils/qcloud/v3
 
 go 1.25.0
 
 require (
-	github.com/ghinknet/smsutils/v3 v3.1.1
-	github.com/ghinknet/toolbox v1.11.1
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.81
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.3.80
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.3.84
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/sms v1.3.83
+	go.gh.ink/smsutils/v3 v3.1.3
+	go.gh.ink/toolbox v1.11.2
 )
 
 require (
